@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Patient",
+    "slug": "Patient",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pictures/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/pictures/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pictures/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/lab1.jpeg"
+    }
+  }
+}
